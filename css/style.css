@@ -1,0 +1,163 @@
+body,
+html {
+    ;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wf-yellow-upper {
+    text-transform: uppercase;
+    color: #f9b233;
+    font-family: 'Oswald', sans-serif;
+}
+
+.wf-rating-slider {
+    margin-top: 1.5rem;
+}
+
+.jumbotron {
+    background-image: url(../images/headerimage.png);
+    border-radius: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    color: #fff;
+    padding: 7rem 0;
+    position: relative;
+}
+
+.jumbotron h2 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 2rem;
+}
+
+.jumbotron p {
+    margin-bottom: 3.125rem;
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.btn {
+    padding: 0.75rem 1rem;
+}
+
+.download-our-app {
+    background-image: url(../images/download-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section.wf-benefits, section.wf-team, section.download-our-app, section.wf-contact {
+    padding: 5rem 0;
+}
+
+section.wf-benefits h2, section.wf-team h2, section.download-our-app h2, section.wf-contact h2 {
+    margin-bottom: 3.125rem;
+}
+
+section.wf-team img {
+    max-width: 12.5rem;
+}
+
+section.wf-team h4 {
+    margin: 1.6rem 0;
+}
+
+section.wf-team {
+    color: #555555;
+}
+
+section.wf-team p {
+    font-size: 0.9rem;
+}
+
+.fa-ul {
+    margin-left: 0;
+}
+
+ul.wf-list-style {
+    padding: 1rem 0 0 2rem;
+    list-style: none;
+}
+
+ul.wf-list-style i {
+    color: #f9b233;
+}
+
+ul.wf-list-style li {
+    margin-bottom: 0.5rem;
+    color: #555555;
+}
+
+.wf-review-img {
+    max-width: 200px;
+}
+
+.carousel-item h3 {
+    font-size: 1.325rem;
+}
+
+form {
+    ms-flex: 0 0 60%;
+    flex: 0 0 60%;
+    max-width: 60%;
+    color: #555;
+}
+
+form input.form-control, textarea.form-control {
+    border: none;
+    background-color: #f5f5f5;
+    color: #555;
+}
+
+footer {
+    padding: 1.5rem 0;
+    background-color: #333333;
+    color: #fff;
+}
+
+footer h5 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+footer p {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+
+footer a {
+    font-size: 1.75rem;
+}
+
+footer a i {
+    color: #fff;
+}
+
+nav {
+    background-color: #333333 !important;
+}
+
+.nav-item a {
+    color: #fff !important;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.nav-item img {
+    max-width: 50px;
+}
+
+.nav-link {
+    line-height: 80px;
+    padding: 0;
+}
